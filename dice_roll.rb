@@ -6,3 +6,8 @@ def roll
   range = rand(1..6)
   return range
 end
+
+def roll
+  range = rand(1..6)
+  return range
+end
